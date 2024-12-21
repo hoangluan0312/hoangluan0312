@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hoangluan0312
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning college
+- I'm 18 years old 
 - I also have girlfriend
 
 <!---
