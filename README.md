@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @hoangluan0312
+- 👋 Hi, I’m @hoangluan
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning college
-- I'm 18 years old 
-- I also have girlfriend
+
 
 <!---
 hoangluan0312/hoangluan0312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
